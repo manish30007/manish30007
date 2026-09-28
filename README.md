@@ -13,7 +13,7 @@ I work across the stack — from backend architecture and real-time communicatio
 **Data:** MongoDB, Neo4j, SQL  
 **Other:** Stripe, Git, API Design, Real-Time Systems
 
-### 👨‍💻 What I Work On
+###  What I Work On
 
 - AI-powered SaaS products
 - Real-time and streaming systems
@@ -23,7 +23,7 @@ I work across the stack — from backend architecture and real-time communicatio
 - Cloud-based systems
 - Taking products from concept to production
 
-### 🚀 Selected Work
+###  Selected Work
 
 #### Portfolio
 My engineering experience, production work, technical background, and selected case studies.
@@ -31,6 +31,6 @@ My engineering experience, production work, technical background, and selected c
 #### The Globetrotter Challenge
 Full-stack travel guessing game built with **Angular, Node.js, Express, and Neo4j AuraDB**, with frontend and backend deployment on Vercel.
 
-### 📫 Connect
+###  Connect
 
 [LinkedIn](https://www.linkedin.com/in/manish30007/) • [Portfolio](https://manish-portfolio-swe.netlify.app/)
